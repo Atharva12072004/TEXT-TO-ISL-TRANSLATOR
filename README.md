@@ -12,7 +12,7 @@ Click Below Link
 https://drive.google.com/drive/folders/1U-Pr4r1-cupgNOOq9NH_uTsQnPSVEKco
 
 # OUTPUT
-![image](https://github.com/user-attachments/assets/ab4612f0-5eb0-46bb-b6f3-de7cba6f1486)
+
 ![image](https://github.com/user-attachments/assets/4b047593-c4f8-4939-904f-b017c214ef8c)
 
 
